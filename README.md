@@ -100,7 +100,7 @@ An AI-powered chatbot inspired by Google Gemini with real-time responses using G
 <div align="center">
 
   <!-- Main GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+ 
 
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
