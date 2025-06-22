@@ -7,7 +7,6 @@
 
 ---
 
-<img align="right" alt="Coding" height="250" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F5Znlld2h5bmNwY2MwajczOHVhaW05ZzI0emVzaHluYWZlOWtidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDbNojCLBFs3r0c10h/giphy.gif" />
 
 ## 🚀 About Me
 
