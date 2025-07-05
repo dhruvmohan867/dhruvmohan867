@@ -109,7 +109,9 @@ An AI-powered chatbot inspired by Google Gemini with real-time responses using G
   <!-- GitHub Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=tokyonight" alt="Profile Summary" />
 
-  <!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
  
   <!-- Profile Views -->
   <br/>
