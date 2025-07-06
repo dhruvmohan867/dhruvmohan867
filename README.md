@@ -1,6 +1,9 @@
 ![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header)
 
-<h1 align="center">Hi 👋, I'm Dhruv Mohan Shukla</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Mohan+Shukla!;" alt="Typing SVG" />
+</h1>
+
 
 <p align="center">
   🎓 <strong>B.Tech Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
