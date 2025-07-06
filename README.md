@@ -4,32 +4,32 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Mohan+Shukla!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  🎓 <strong>B.Tech Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
-  💻 Full-Stack Developer passionate about <strong>Web Development & AI Integration</strong>
-</p>
-
----
-
-## 🚀 About Me
-
-<!--<div align="left">
-  <img align="right" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" alt="coding gif" width="230" height= "100" />-->
-
-- 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**
-- 🤖 Exploring **AI/ML tools** and **API integration in web apps**
-- 🌱 Learning **Node.js**, **MongoDB**, and **Machine Learning** (Supervised Learning, Pandas, NumPy, Matplotlib)
-- 👯 Looking to collaborate on **innovative full-stack or AI-integrated projects**
-- 💬 Ask me about anything in **React, Next.js, Tailwind CSS, or APIs**
-- 📫 Reach me at: **dhruvmohanshukla2004@gmail.com**
-- 🌐 Portfolio: [https://portfolio-fzls.vercel.app](https://portfolio-fzls.vercel.app)
+<div align="center">
+🎓 **B.Tech Undergraduate** at **IIIT Bhopal (2026)**  
+💻 Full-Stack Developer passionate about **Web Development & AI Integration**  
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-<h3 align="center">Languages & Tools</h3>
+<div align="left">
+  <img align="right" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" alt="Coding GIF" width="230" />
+
+My journey in software development is driven by curiosity and the desire to build impactful solutions.
+
+- 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**  
+- 🤖 Exploring **AI/ML tools** and **API integration in web apps**  
+- 🌱 Learning **Node.js**, **MongoDB**, **Machine Learning** (Supervised Learning, Pandas, NumPy, Matplotlib)  
+- 👯 Open to collaborate on **innovative full‑stack or AI‑integrated projects**  
+- 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, or **APIs**  
+- 📫 Reach me at: **dhruvmohanshukla2004@gmail.com**  
+- 🌐 Portfolio: [portfolio‑fzls.vercel.app](https://portfolio-fzls.vercel.app)  
+</div>
+
+---
+
+# 🧰 Tech Stack
 
 <div align="center">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML"/>
@@ -64,23 +64,23 @@
 
 ---
 
-## 🌟 Featured Projects
+# 💻 Featured Projects
 
-### 🛒 [Ecommerce Web App](https://project-12-3.onrender.com/)
-A full-featured ecommerce website with product listings, cart, and order management.  
-**Tech Stack**: React, Node.js, Express, MongoDB
+### 🛒 [Ecommerce Web App](https://project-12-3.onrender.com/)  
+A full‑featured ecommerce platform with product listings, cart, and order management  
+**Tech Stack:** React, Node.js, Express, MongoDB
 
-### 🤖 [Gemini AI Clone](https://gemini-clone-tawny-ten.vercel.app/)
-An AI-powered chatbot inspired by Google Gemini with real-time responses using Gemini API.  
-**Tech Stack**: Next.js, Gemini API, Tailwind CSS
+### 🤖 [Gemini AI Clone](https://gemini-clone-tawny-ten.vercel.app/)  
+An AI‑powered chatbot inspired by Google Gemini with real‑time responses  
+**Tech Stack:** Next.js, Gemini API, Tailwind CSS
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvmohanshukla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dhruvmohanshukla2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -95,18 +95,16 @@ An AI-powered chatbot inspired by Google Gemini with real-time responses using G
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=tokyonight" alt="Profile Summary" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=dhruvmohan867&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhruvmohan867&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=dhruvmohan867&style=flat-square&color=blue" alt="Profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=dhruvmohan867&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
