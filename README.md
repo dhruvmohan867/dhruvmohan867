@@ -27,7 +27,7 @@ My journey in software development is driven by curiosity and the desire to buil
 - 🌐 Portfolio: [portfolio‑fzls.vercel.app](https://portfolio-fzls.vercel.app)  
 </div>
 
----
+
 
 # 🧰 Tech Stack
 
