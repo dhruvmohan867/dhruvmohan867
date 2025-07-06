@@ -114,5 +114,5 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 
 
 <p align="center">
-  <strong>⭐️ "Build. Learn. Innovate." ⭐️</strong>
+  <strong>⭐️ "Engineering solutions that solve real problems."" ⭐️</strong>
 </p>
