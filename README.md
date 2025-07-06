@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 <div align="left">
-  <img align="right" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" alt="coding gif" width="230" height="180" />
+  <img align="right" src="[https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnByZmc1bnF1ZWI1c20yemV5dmZvdzZkaW1sMHAyNnUzemEyZzgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif)" alt="coding gif" width="230" height="180" />
   
 - 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**
 - 🤖 Exploring **AI/ML tools** and **API integration in web apps**
