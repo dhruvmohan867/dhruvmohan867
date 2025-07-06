@@ -14,26 +14,17 @@
 ---
 
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 Currently working on <strong>Ecommerce Web App</strong> and <strong>Gemini AI Clone</strong></li>
-        <li>🤖 Exploring <strong>AI/ML tools</strong> and <strong>API integration in web apps</strong></li>
-        <li>🌱 Learning <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>Machine Learning</strong> (Supervised Learning, Pandas, NumPy, Matplotlib)</li>
-        <li>👯 Looking to collaborate on <strong>innovative full-stack or AI-integrated projects</strong></li>
-        <li>💬 Ask me about anything in <strong>React, Next.js, Tailwind CSS, or APIs</strong></li>
-        <li>📫 Reach me at: <strong>dhruvmohanshukla2004@gmail.com</strong></li>
-        <li>🌐 Portfolio: <a href="https://portfolio-fzls.vercel.app" target="_blank">https://portfolio-fzls.vercel.app</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnByZmc1bnF1ZWI1c20yemV5dmZvdzZkaW1sMHAyNnUzemEyZzgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif)" width="250" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+- 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**
+- 🤖 Exploring **AI/ML tools** and **API integration in web apps**
+- 🌱 Learning **Node.js**, **MongoDB**, and **Machine Learning** (Supervised Learning, Pandas, NumPy, Matplotlib)
+- 👯 Looking to collaborate on **innovative full-stack or AI-integrated projects**
+- 💬 Ask me about anything in **React, Next.js, Tailwind CSS, or APIs**
+- 📫 Reach me at: **dhruvmohanshukla2004@gmail.com**
+- 🌐 Portfolio: [https://portfolio-fzls.vercel.app](https://portfolio-fzls.vercel.app)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -137,4 +128,4 @@ An AI-powered chatbot inspired by Google Gemini with real-time responses using G
 </div>
 
   ⭐️ <strong>"Build. Learn. Innovate."</strong> ⭐️
-</p>
+</p> i
