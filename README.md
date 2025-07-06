@@ -1,3 +1,5 @@
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header)
+
 <h1 align="center">Hi 👋, I'm Dhruv Mohan Shukla</h1>
 
 <p align="center">
