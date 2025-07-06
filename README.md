@@ -1,10 +1,8 @@
 ![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Mohan+shukla!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Mohan+Shukla!" alt="Typing SVG" />
 </h1>
-
-
 
 <p align="center">
   🎓 <strong>B.Tech Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
@@ -13,9 +11,11 @@
 
 ---
 
-
 ## 🚀 About Me
-<img align="right" alt="Coding" height="250" width="230" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952nkp0uxgwf5y0gvr2run9tu8zdcaeo5s7h2nomel2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
+<div align="left">
+  <img align="right" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" alt="coding gif" width="230" />
+
 - 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**
 - 🤖 Exploring **AI/ML tools** and **API integration in web apps**
 - 🌱 Learning **Node.js**, **MongoDB**, and **Machine Learning** (Supervised Learning, Pandas, NumPy, Matplotlib)
@@ -23,48 +23,44 @@
 - 💬 Ask me about anything in **React, Next.js, Tailwind CSS, or APIs**
 - 📫 Reach me at: **dhruvmohanshukla2004@gmail.com**
 - 🌐 Portfolio: [https://portfolio-fzls.vercel.app](https://portfolio-fzls.vercel.app)
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-
+<h3 align="center">Languages & Tools</h3>
 
 <div align="center">
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" title="Bootstrap"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img width="50" src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma" title="Figma"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" title="Node.js"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" title="Express.js"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/>
-  <img width="50" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt="MySQL" title="MySQL"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-  <img width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" title="Django"/>
-  <img width="50" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="Seaborn" title="Seaborn"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" title="Matlab"/>
-  <img width="50" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" title="Pandas"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn"/>
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch"/>
-  <img width="50" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" title="Firebase"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JavaScript"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" title="Next.js"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind CSS"/>
+  <img width="50" src="https://logowik.com/content/uploads/images/figma.jpg" title="Figma"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express.js"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" title="MongoDB"/>
+  <img width="50" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" title="MySQL"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" title="C"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" title="C++"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="GitHub"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" title="VS Code"/>
+  <img width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django"/>
+  <img width="50" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" title="Seaborn"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" title="Jupyter Notebook"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="Matlab"/>
+  <img width="50" src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch"/>
+  <img width="50" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" title="Firebase"/>
 </div>
-
-
-
 
 ---
 
@@ -101,31 +97,18 @@ An AI-powered chatbot inspired by Google Gemini with real-time responses using G
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Stats Section -->
 <div align="center">
 
-  <!-- Main GitHub Stats Card -->
- 
-
-  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-
-  <br/>
-
-  <!-- GitHub Profile Summary -->
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=tokyonight" alt="Profile Summary" />
-
-<!-- GitHub Streak -->
-<p align="center">
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=dhruvmohan867&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
- 
-  <!-- Profile Views -->
-  <br/>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=dhruvmohan867&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
 
-  ⭐️ <strong>"Build. Learn. Innovate."</strong> ⭐️
-</p> i
+---
+
+<p align="center"><strong>⭐️ "Build. Learn. Innovate." ⭐️</strong></p>
