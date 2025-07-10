@@ -31,7 +31,7 @@
 
 
 
-## 🛠️ Tech Stack
+
 
 <h3 align="center">Languages & Tools</h3>
 
