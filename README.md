@@ -106,7 +106,7 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=tokyonight" alt="Profile Summary" />
   <br/>
-<img src="https://github-readme-streak-stats.vercel.app?user=dhruvmohan867&theme=tokyonight&hide_border=false" alt="" />
+<img src="https://github-readme-streak-stats.vercel.app?user=dhruvmohan867&theme=tokyonight&hide_border=false" alt="github " />
  <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867
 &theme=tokyonight"/>
