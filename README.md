@@ -100,7 +100,23 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 
 
 ## 📈 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&show_icons=true&locale=en&layout=compact&theme=react" alt="dhruvmohan867" />
+</p>
+<br/><br/>
 
+<!-- 🔥 GitHub Streak Stats -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react" alt="dhruvmohan867" />
+</p>
+<br/><br/>
+
+<!-- 🏆 Top Languages (with custom style) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<br/><br/>
+
+<!-- 📊 GitHub Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
 <p align="center">
   <p align="center"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=solarized_dark" display="block" width="100%" height="auto" alt="GitHub Profile Summary">
