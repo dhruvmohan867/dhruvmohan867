@@ -106,25 +106,27 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 <br/><br/>
 
 <!-- 🔥 GitHub Streak Stats -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react" alt="dhruvmohan867" />
+### 📊 GitHub Stats
 
-<br/><br/>
+<p align="center">
 
-<!-- 🏆 Top Languages (with custom style) -->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-<br/><br/>-->
+  <!-- 🌐 Top Languages (compact layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&show_icons=true&locale=en&layout=compact&theme=react" alt="dhruvmohan867" />
 
-<!-- 📊 GitHub Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+  <!-- 🔥 GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react" alt="dhruvmohan867" />
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=solarized_dark" display="block" width="100%" height="auto" alt="GitHub Profile Summary">
+  <!-- 📊 GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
 
+  <!-- 🧾 GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=solarized_dark" width="100%" alt="GitHub Profile Summary" />
 
- <!-- [![@dhruvmohan867's Holopin badges](https://holopin.me/dhruvmohan867)](https://holopin.io/@dhruvmohan867)-->
-
+  <!-- 🏅 Holopin Badge (uncomment when ready) -->
+  <!-- [![@dhruvmohan867's Holopin badges](https://holopin.me/dhruvmohan867)](https://holopin.io/@dhruvmohan867) -->
 
 </p>
+
 
 
 <p align="center">
