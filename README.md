@@ -102,16 +102,11 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=tokyonight" alt="Profile Summary" />
-  <br/>
-<img src="https://github-readme-streak-stats.vercel.app?user=dhruvmohan867&theme=tokyonight&hide_border=false" alt="github " />
- <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867
-&theme=tokyonight"/>
-</br>
-  <br/>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=tokyonight"/>
+</p>
   <img src="https://komarev.com/ghpvc/?username=dhruvmohan867&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
