@@ -99,11 +99,7 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 
 
 
-## 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&show_icons=true&locale=en&layout=compact&theme=react" alt="dhruvmohan867" />
-</p>
-<br/><br/>
+
 
 <!-- 🔥 GitHub Streak Stats -->
 ### 📊 GitHub Stats
