@@ -101,15 +101,15 @@ AI-powered chatbot inspired by Google Gemini with real-time responses
 
 ## 📈 GitHub Stats
 
-<div align="center">
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=tokyonight"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=tokyonight"/>-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=tokyonight"/>
-</p>
-  <img src="https://komarev.com/ghpvc/?username=dhruvmohan867&style=flat-square&color=blue" alt="Profile views" />
-</div>
+<p align="center">
+  <p align="center"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=solarized_dark" display="block" width="100%" height="auto" alt="GitHub Profile Summary">
+  </p>
 
+  [![@dhruvmohan867's Holopin badges](https://holopin.me/dhruvmohan867)](https://holopin.io/@dhruvmohan867)
+
+  <br><br>
+</p>
 
 
 <p align="center">
