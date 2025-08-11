@@ -74,7 +74,7 @@
 Full-featured ecommerce platform with product listings, cart functionality, and order management  
 **Tech Stack**: React, Node.js, Express, MongoDB
 
-### 🤖 [Backend-Project](https://github.com/dhruvmohan867/Backend-Project)
+### 🤖 [Backend-Project](https://github.com/dhruvmohan867/Backend)
 Backend for a video-sharing platform with secure auth (JWT + refresh tokens), profile/channel management, subscriptions, and Cloudinary-powered media uploads — built with Node.js, Express, MongoDB and Multer 
 **Tech Stack**:Node.js + Express, MongoDB , JWT  + cookie-based refresh, bcrypt, Multer + Cloudinary for media uploads, with CORS & cookie-parser
 
