@@ -70,7 +70,7 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 [Ecommerce Web App](https://project-12-3.onrender.com/)
+### 🛒 [Ecommerce Web App](https://ecommerce-website-frontend3.onrender.com/)
 Full-featured ecommerce platform with product listings, cart functionality, and order management  
 **Tech Stack**: React, Node.js, Express, MongoDB
 
