@@ -101,16 +101,16 @@ Backend for a video-sharing platform with secure auth (JWT + refresh tokens), pr
 
 
 
-<!-- 🔥 GitHub Streak Stats -->
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
 
   <!-- 🌐 Top Languages (compact layout) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&show_icons=true&locale=en&layout=compact&theme=react" alt="dhruvmohan867" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvmohan867&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&border_radius=10" alt="Top Languages" />
 
-  <!-- 🔥 GitHub Streak Stats -->
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react" alt="dhruvmohan867" />-->
+  <!-- 🔥 GitHub Streak Stats (ENABLED NOW) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
 
   <!-- 📊 GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
@@ -118,13 +118,9 @@ Backend for a video-sharing platform with secure auth (JWT + refresh tokens), pr
   <!-- 🧾 GitHub Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmohan867&theme=solarized_dark" width="100%" alt="GitHub Profile Summary" />
 
-  <!-- 🏅 Holopin Badge (uncomment when ready) -->
-  <!-- [![@dhruvmohan867's Holopin badges](https://holopin.me/dhruvmohan867)](https://holopin.io/@dhruvmohan867) -->
-
 </p>
-
-
 
 <p align="center">
-  <strong>⭐️ "Engineering solutions that solve real problems."" ⭐️</strong>
+  <strong>⭐️ "Engineering solutions that solve real problems." ⭐️</strong>
 </p>
+
