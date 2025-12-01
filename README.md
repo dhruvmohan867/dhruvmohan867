@@ -70,9 +70,9 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 [Ecommerce Web App](https://ecommerce-website-frontend3.onrender.com/)
-Full-featured ecommerce platform with product listings, cart functionality, and order management  
-**Tech Stack**: React, Node.js, Express, MongoDB
+### 🛒 [AlphaPredict](https://stock-predictor-five-opal.vercel.app/)
+Advanced, full-stack stock analysis platform featuring a decoupled, cloud-native architecture.  
+**Tech Stack**: FastApi, Supabase, Reactjs, Python
 
 ### 🤖 [Backend-Project](https://github.com/dhruvmohan867/Backend)
 Backend for a video-sharing platform with secure auth (JWT + refresh tokens), profile/channel management, subscriptions, and Cloudinary-powered media uploads — built with Node.js, Express, MongoDB and Multer 
