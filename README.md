@@ -107,7 +107,7 @@ Backend for a video-sharing platform with secure auth (JWT + refresh tokens), pr
 <p align="center">
 
   <!-- 🌐 Top Languages (compact layout) -->
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=react&border_color=61dafb&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruvmohan867&layout=compact&theme=react&border_color=61dafb&border_radius=10" alt="Top Languages" />
 
 
   <!-- 🔥 GitHub Streak Stats (ENABLED NOW) -->
