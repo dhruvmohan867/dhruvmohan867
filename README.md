@@ -111,7 +111,8 @@ Backend for a video-sharing platform with secure auth (JWT + refresh tokens), pr
 
 
   <!-- 🔥 GitHub Streak Stats (ENABLED NOW) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmohan867&theme=react&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+
 
   <!-- 📊 GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvmohan867&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
