@@ -18,9 +18,10 @@
 <div align="left">
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnByZmc1bnF1ZWI1c20yemV5dmZvdzZkaW1sMHAyNnUzemEyZzgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif" alt="coding gif" width="230" height="180" />
   
-- 🔭 Currently working on **Ecommerce Web App** and **Gemini AI Clone**
-- 🤖 Exploring **AI/ML tools** and **API integration in web apps**
+- 🔭 Currently building a **Task Manager backend** using **Spring Boot**, REST APIs, JPA/Hibernate, and MySQL
+- 🤖 Actively learning **Go (Golang)** for high-performance backend services and concurrency
 - 🌱 Learning **Node.js**, **MongoDB**, and **Machine Learning** (Supervised Learning, Pandas, NumPy, Matplotlib)
+- 🧠 Strong fundamentals in **DSA, OOPs, DBMS, OS, and Computer Networks**
 - 👯 Looking to collaborate on **innovative full-stack or AI-integrated projects**
 - 💬 Ask me about anything in **React, Next.js, Tailwind CSS, or APIs**
 - 📫 Reach me at: **dhruvmohanshukla2004@gmail.com**
